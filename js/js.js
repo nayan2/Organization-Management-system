@@ -1,0 +1,12 @@
+	$("#employee").click(function(){
+	    $('.v').toggle();
+	});
+	 $("#ep").click(function(){
+	    $('.epv').toggle();
+	});
+	  $("#pro").click(function(){
+	    $('.prov').toggle();
+	});
+	   $("#per").click(function(){
+	    $('.perv').toggle();
+	});

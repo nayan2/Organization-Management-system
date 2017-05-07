@@ -1,0 +1,163 @@
+.loginform {
+	width: 400px;
+	height: 250px;
+	background-color: #f8f8f8;
+	border: 1px solid #d1d1d1;
+	margin-left: 30%;
+	margin-top: 5%;
+	padding: 20px 50px 20px 50px;
+}
+.loginform input {
+	width: 100%;
+	padding: 4px 10px;
+	border: 1px solid #d1d1d1;
+	height: 24px;
+}
+.loginform button {
+	border: 1px solid #6f5499;
+	background-color: #6f5499;
+	color: #fff;
+	width: 70px;
+	height: 24px;
+}
+.loginform h3 {
+	text-align: center;
+}
+
+.loginform small{
+	color: red;
+}
+.omstitle {
+	text-align: center;
+}
+
+.layout {
+	width: 1000px;
+	height: auto;
+	background-color: #f8f8f8;
+	border: 1px solid #d1d1d1;
+	margin-left: 10%;
+	padding: 20px 50px 20px 50px;
+	float: left;
+}
+
+.title1 {
+	width: 50%;
+	float: left;
+}
+.title2 {
+	width: 50%;
+	float: left;
+}
+.title2 a {
+	text-align: right;
+}
+.list {
+	width: 30%;
+	float: left;
+}
+.list ul {
+	list-style: none;
+	display: inline;
+	margin: 0;
+	padding: 0;
+}
+.list ul li {
+	padding: 4px 0;
+}
+.list ul li span {
+	color: #666;
+}
+.list ul li a {
+	text-decoration: none;
+	color: #08C;
+	font-size: 18px;
+}
+.list ul li a:hover {
+	color: #00517A;
+	z-index: 9999;
+}
+.contain {
+	width: 70%;
+	float: left;
+	padding-top: 20px;
+}
+.contain input {
+	width: 40%;
+	padding: 4px 10px;
+	border: 1px solid #d1d1d1;
+	height: 24px;
+}
+.contain  button {
+	border: 1px solid #6f5499;
+	background-color: #6f5499;
+	color: #fff;
+	width: 70px;
+	height: 24px;
+}
+.contain small {
+	color: red;
+	padding-bottom: 10px;
+}
+.contain select {
+	width: 50%;
+	padding: 4px 10px;
+	border: 1px solid #d1d1d1;
+	height: 30px;
+}
+.contain textarea {
+	width: 80%;
+	padding: 4px 10px;
+	border: 1px solid #d1d1d1;
+	height: auto;
+}
+
+label {
+	display: block;
+	margin: 5px 0;
+	color: #666;
+}
+
+.day input {
+	width: 10%;
+}
+.day {
+	color: #666;
+}
+
+.hidden {
+	visibility: hidden;
+}
+
+.list h4 {
+	padding: 0;
+	margin: 0;
+}
+.list .v {
+	display: none;
+}
+.list .v li a{
+	padding-left: 15px;
+	color: #00517A;
+}
+.list .epv {
+	display: none;
+}
+.list .epv li a{
+	padding-left: 15px;
+	color: #00517A;
+}
+.list .prov {
+	display: none;
+}
+.list .prov li a{
+	padding-left: 15px;
+	color: #00517A;
+}
+.list .perv {
+	display: none;
+}
+.list .perv li a{
+	padding-left: 15px;
+	color: #00517A;
+}
